@@ -242,7 +242,7 @@ switch(command_number){
 
    default: printf("\nYour choice does not fall in this group");
 }
-printf("\n\n\n\t\t\tDo you want to continue?\n\n\n\t\t\t Yes(1)\t\tNo(2):");
+printf("\n\n\n\t\t\tDo you  still want to continue?\n\n\n\t\t\t Yes(1)\t\tNo(2):");
 scanf("%d",&n);
 system("cls");
 if(n==1){
